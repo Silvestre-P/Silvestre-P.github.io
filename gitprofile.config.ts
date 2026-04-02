@@ -52,12 +52,12 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Tricia Van Laar',
+    title: 'Portfolio of Silvestre Garcia Pimentel',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'tvanlaar',
+    linkedin: '',
     x: '',
     mastodon: '',
     researchGate: '',
@@ -74,9 +74,9 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tvanlaar.github.io',
+    website: 'https://github.com/Silvestre-P/Silvestre-P.github.io',
     phone: '',
-    email: 'tvanlaar@csustan.edu',
+    email: 'spimentel6@csustan.edu',
   },
   resume: {
     fileUrl:
@@ -95,8 +95,8 @@ const CONFIG = {
     'Docker',
     'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
+    '',
+    '',
   ],
   experiences: [
     {
