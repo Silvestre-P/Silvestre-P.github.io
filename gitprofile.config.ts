@@ -88,7 +88,7 @@ const CONFIG = {
     'Spectroscopy',
     'TLC',
     'Recrystillation',
-    '',
+    'Column Chromatography',
     '',
     '',
     '',
@@ -124,16 +124,10 @@ const CONFIG = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'CSU Stanislaus',
+      degree: 'Bachelor of Science',
+      from: '2022',
+      to: 'present',
     },
   ],
   publications: [
