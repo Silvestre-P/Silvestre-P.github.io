@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Investigating the historical factors to the European dragonfly diversity',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/Silvestre-P/Silvestre-P.github.io/raw/main/EcologyPosterPresentation.pdf',
           link: 'https://example.com',
         },
         {
